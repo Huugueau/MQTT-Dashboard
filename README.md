@@ -2,7 +2,7 @@
 
 Dashboard web pour monitorer et contrôler à distance tous tes devices (PCs Linux, Windows, smartphone, imprimante 3D).
 
-![Dashboard Preview](preview.png)
+![Dashboard Preview](screenshots/preview.png)
 
 ## ✨ Fonctionnalités
 
