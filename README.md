@@ -82,12 +82,12 @@ Login par défaut: `admin` / `admin123` (mot de passe à definir avec le script 
 ```
 device-dashboard/
 │
-├── backend/               # Backend Node.js
-│   ├── server.js         # Serveur Express + Socket.io + MQTT
+├── backend/             # Backend Node.js
+│   ├── server.js        # Serveur Express + Socket.io + MQTT
 │   ├── package.json
 │   └── .env
 │
-├── frontend/             # Frontend React
+├── frontend/            # Frontend React
 │   ├── src/
 │   │   ├── components/  # Composants React
 │   │   ├── pages/       # Pages (Login, Dashboard)
@@ -96,6 +96,13 @@ device-dashboard/
 │   │   └── hooks/       # Custom hooks
 │   ├── package.json
 │   └── vite.config.js
+│
+│
+├── screenshots/        # Screenshots du Dashboard
+│
+│
+├── scripts/            # Scripts des sensors
+│
 │
 ├── exemple_ht.py       # Script imittant un sensors HT (Humidité / Température)
 ├── exemple_ls.py       # Script imittant un sensors LS (Lumière / Son)
