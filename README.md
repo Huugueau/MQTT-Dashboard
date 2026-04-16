@@ -141,8 +141,17 @@ device-dashboard/
 
 ## 🎨 Screenshots
 
+### Connection Page
+![Connection Page](screenshots/conection.png)
+
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/preview.png)
 
 ### Device Details
-![Device Modal](screenshots/device-modal.png)
+![Device Modal](screenshots/modal.png)
+
+### Device Graph
+![Device Graph](screenshots/graph.png)
+
+### Device Aggregate
+![Device Aggregate](screenshots/aggregate.png)
