@@ -142,7 +142,7 @@ device-dashboard/
 ## 🎨 Screenshots
 
 ### Connection Page
-![Connection Page](screenshots/conection.png)
+![Connection Page](screenshots/connection.png)
 
 ### Dashboard
 ![Dashboard](screenshots/preview.png)
